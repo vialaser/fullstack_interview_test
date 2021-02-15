@@ -25,11 +25,6 @@ Neste desafio você deverá criar, utilizando **React** e **Java** , uma lista d
   * [ ] Utilizar Git, disponibilize a sua solução no github com um readme descrevendo como executar seu projeto :)
   * [ ] Disponibilizar o projeto ~~na AWS~~ em alguma Cloud é um bônus.
 
-## :star2:  ~~Obrigatório~~ Diferenciais
-
-* [ ] Testes unitários
-* [ ] Código bem documentado
-
 ## :green_heart: Critérios de avaliação
 
 * [ ] Qualidade de código
